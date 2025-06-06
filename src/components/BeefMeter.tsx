@@ -29,7 +29,7 @@ const BeefMeter = () => {
       views: "173M views",
       time: "16h ago",
       twitterLink: "https://x.com/elonmusk/status/1930719235770359903", // Replace with actual Twitter link
-      image: "./public/Reaction.png"
+      image: "/Reaction.png"
     },
     {
       id: 2,
@@ -38,7 +38,7 @@ const BeefMeter = () => {
       views: "29M views", 
       time: "15h ago",
       twitterLink: "https://x.com/elonmusk/status/1930703865801810022", // Replace with actual Twitter link
-      image: "./public/Bomb.png"
+      image: "/Bomb.png"
     },
     {
       id: 3,
@@ -47,7 +47,7 @@ const BeefMeter = () => {
       views: "23K views",
       time: "4h ago", 
       twitterLink: "https://x.com/AltcoinGordon/status/1930944277451800643", // Replace with actual Twitter link
-      image: "./public/Rumours.png"
+      image: "/Rumours.png"
     },
     {
       id: 4,
@@ -56,7 +56,7 @@ const BeefMeter = () => {
       views: "12M views",
       time: "2h ago",
       twitterLink: "https://x.com/elonmusk/status/1930718684819112251", // Replace with actual Twitter link  
-      image: "./public/Fireback.png"
+      image: "/Fireback.png"
     }
   ];
 
