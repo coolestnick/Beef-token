@@ -40,6 +40,15 @@ const Hero = () => {
 
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
+            <a 
+              href="https://pump.fun/coin/GSMZxwBNoT6RE9eWt5vTS9Zqm8hjYuwu1utt1gJipump" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="bg-gradient-to-r from-orange-500 to-red-600 hover:from-orange-600 hover:to-red-700 text-white font-bold px-8 py-4 rounded-full text-lg transition-all duration-300 transform hover:scale-105 flex items-center shadow-lg"
+            >
+              <Flame className="mr-2" />
+              Buy $BEEF on Pump.fun
+            </a>
             <button className="border-2 border-orange-500 text-orange-400 hover:bg-orange-500 hover:text-black font-bold px-8 py-4 rounded-full text-lg transition-all duration-300 transform hover:scale-105 flex items-center">
               <Zap className="mr-2" />
               Join the Meme War
