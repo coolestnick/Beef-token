@@ -170,38 +170,7 @@ const Memes = () => {
             </div>
           </div>
 
-          <div className="bg-black/50 backdrop-blur-md rounded-3xl p-8 border border-orange-500/30 mb-16">
-            <h3 className="text-3xl font-bold text-white mb-8 text-center flex items-center justify-center">
-              <MessageCircle className="mr-3 text-orange-400" />
-              Epic Tweet Screenshots
-            </h3>
-            
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-              <div className="bg-gray-800/50 rounded-2xl overflow-hidden">
-                <img 
-                  src="https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=800" 
-                  alt="Elon's Epstein Bombshell Tweet" 
-                  className="w-full h-64 object-cover"
-                />
-                <div className="p-4">
-                  <h4 className="text-white font-bold mb-2">The Epstein Files Bombshell</h4>
-                  <p className="text-gray-300 text-sm">Elon drops the nuclear option with 171M views</p>
-                </div>
-              </div>
-
-              <div className="bg-gray-800/50 rounded-2xl overflow-hidden">
-                <img 
-                  src="https://images.pexels.com/photos/267371/pexels-photo-267371.jpeg?auto=compress&cs=tinysrgb&w=800" 
-                  alt="Mark This Post Tweet" 
-                  className="w-full h-64 object-cover"
-                />
-                <div className="p-4">
-                  <h4 className="text-white font-bold mb-2">"Mark This Post"</h4>
-                  <p className="text-gray-300 text-sm">The follow-up that broke the internet</p>
-                </div>
-              </div>
-            </div>
-          </div>
+          
 
           <div className="bg-gradient-to-br from-purple-900/50 to-pink-900/50 rounded-3xl p-8 border border-purple-500/30">
             <div className="text-center">
